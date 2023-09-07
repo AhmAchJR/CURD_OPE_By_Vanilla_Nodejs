@@ -1,0 +1,23 @@
+{
+  "name": "vanilla_node_rest_apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchrfJR/Vanilla_Node_REST_APIs.git"
+  },
+  "author": "Ahmed Achraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AchrfJR/Vanilla_Node_REST_APIs/issues"
+  },
+  "homepage": "https://github.com/AchrfJR/Vanilla_Node_REST_APIs#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
